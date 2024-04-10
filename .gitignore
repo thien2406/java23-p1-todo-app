@@ -1,0 +1,4 @@
+#Ignore file có tên .project(eclip c?u hình)
+**/.project
+**/.classpath
+**/bin
